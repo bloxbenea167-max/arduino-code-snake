@@ -264,6 +264,6 @@ void resetGame() {
   snake[2].y = 4;
   
   generateFood();
-  
+  and if is not working just talk to me
   Serial.println("Game Reset!");
 }
